@@ -1,9 +1,10 @@
-<h1 align="center">Welcome to developer-portfolio 👋</h1>
+<h1 align="center">Welcome to Portfolio 👋</h1>
 <a href="https://github.com/Sumit-jr/Portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Sumit-jr/Portfolio"></a>
 <a href="https://github.com/Sumit-jr/Portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Sumit-jr/Portfolio"></a>
 <a href="https://github.com/Sumit-jr/Portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Sumit-jr/Portfolio"></a> 
 <a href="https://github.com/Sumit-jr/Portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Sumit-jr/Portfolio"></a>
 
+## DEMO(https://sumit-jr.github.io/Portfolio/)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
